@@ -1,0 +1,25 @@
+﻿@model PartialViewDemo.Models.Employee
+@using(Html.BeginForm())
+{
+    <table>
+        <tr>
+            <td>Employee_Id:</td>
+            <td>@Html.TextBoxFor(e=>e.Emp_id)</td>
+        </tr>
+        <tr>
+            <td>Employee_Name:</td>
+            <td>@Html.TextBoxFor(e=>e.Emp_name)</td>
+        </tr>
+        <tr>
+            <td>Employee_Salary:</td>
+            <td>@Html.TextBoxFor(e=>e.salary)</td>
+        </tr>
+        <tr>
+            <td>
+                <input type="submit" value="Add"/>
+            </td>
+        </tr>
+    </table>
+}
+
+<h2>@ViewBag.msg</h2>

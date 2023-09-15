@@ -1,0 +1,20 @@
+﻿@model IEnumerable<PartialViewDemo.Models.Employee>
+ <table border="1">
+     <thead>
+         <tr>
+             <th>Employee_id</th>
+             <th>Employee_Name</th>
+             <th>Employee_Salary</th>
+         </tr>
+     </thead>
+     <tbody>
+         @foreach(var e in Model)
+         {
+             <tr>
+                 <td>@e.Emp_id</td>
+                 <td>@e.Emp_name</td>
+                 <td>@e.salary</td>
+             </tr>
+         }
+     </tbody>
+ </table>

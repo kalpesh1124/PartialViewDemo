@@ -1,0 +1,112 @@
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\PartialViewDemo.dll.config
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\PartialViewDemo.dll
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\PartialViewDemo.pdb
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\Antlr3.Runtime.dll
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\EntityFramework.dll
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\EntityFramework.SqlServer.dll
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\Microsoft.AspNet.Identity.Core.dll
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\Microsoft.AspNet.Identity.Owin.dll
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\Microsoft.Owin.dll
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\Microsoft.Owin.Security.Cookies.dll
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\Microsoft.Owin.Security.dll
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\Microsoft.Owin.Security.Facebook.dll
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\Microsoft.Owin.Security.Google.dll
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\Microsoft.Owin.Security.OAuth.dll
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\Microsoft.Owin.Security.Twitter.dll
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\Microsoft.Web.Infrastructure.dll
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\Newtonsoft.Json.dll
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\Owin.dll
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\System.Web.Helpers.dll
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\System.Web.Mvc.dll
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\System.Web.Optimization.dll
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\System.Web.Razor.dll
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\System.Web.WebPages.Deployment.dll
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\System.Web.WebPages.dll
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\System.Web.WebPages.Razor.dll
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\WebGrease.dll
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\System.Web.Helpers.xml
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\System.Web.Mvc.xml
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\System.Web.Optimization.xml
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\System.Web.Razor.xml
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\System.Web.WebPages.xml
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\System.Web.WebPages.Deployment.xml
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\System.Web.WebPages.Razor.xml
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\Newtonsoft.Json.xml
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\Antlr3.Runtime.pdb
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\EntityFramework.xml
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\EntityFramework.SqlServer.xml
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\Microsoft.AspNet.Identity.Core.xml
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\Microsoft.AspNet.Identity.Owin.xml
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\Microsoft.Owin.xml
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\Microsoft.Owin.Security.xml
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\Microsoft.Owin.Security.Facebook.xml
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\Microsoft.Owin.Security.Cookies.xml
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\Microsoft.Owin.Security.OAuth.xml
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\Microsoft.Owin.Security.Google.xml
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\Microsoft.Owin.Security.Twitter.xml
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\obj\Debug\PartialViewDemo.csprojResolveAssemblyReference.cache
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\obj\Debug\PartialViewDemo.dll
+Z:\anuradha.mam\ASP .net july\PartialViewDemo\PartialViewDemo\obj\Debug\PartialViewDemo.pdb
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\PartialViewDemo.dll.config
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\PartialViewDemo.dll
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\PartialViewDemo.pdb
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\Antlr3.Runtime.dll
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\EntityFramework.dll
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\EntityFramework.SqlServer.dll
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\Microsoft.Owin.dll
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\Microsoft.Owin.Security.dll
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\Newtonsoft.Json.dll
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\Owin.dll
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\System.Web.Helpers.dll
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\System.Web.Mvc.dll
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\System.Web.Optimization.dll
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\System.Web.Razor.dll
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\System.Web.WebPages.dll
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\WebGrease.dll
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\System.Web.Helpers.xml
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\System.Web.Mvc.xml
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\System.Web.Optimization.xml
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\System.Web.Razor.xml
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\System.Web.WebPages.xml
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\System.Web.WebPages.Razor.xml
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\Newtonsoft.Json.xml
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\Antlr3.Runtime.pdb
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\EntityFramework.xml
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\EntityFramework.SqlServer.xml
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\Microsoft.Owin.xml
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\Microsoft.Owin.Security.xml
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\obj\Debug\PartialViewDemo.csproj.AssemblyReference.cache
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\obj\Debug\PartialViewDemo.csproj.CoreCompileInputs.cache
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\obj\Debug\PartialViewDemo.csproj.CopyComplete
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\obj\Debug\PartialViewDemo.dll
+C:\Users\Kalpesh\Desktop\PartialViewDemo\PartialViewDemo\obj\Debug\PartialViewDemo.pdb
